@@ -8,6 +8,7 @@ out.
 Install:
 
 ```bash
+go get .  # install goquery if needed
 go build -o ~/bin/aadl aadl.go
 ```
 
